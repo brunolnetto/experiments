@@ -1,6 +1,8 @@
-# rainfall
+# Physics experiments
 
-Interpolation of water falling from a pipe 
+Physics experiments:
+  1) Falling rain;
+  2) Disk rolling over sphere.
 
 # How to reproduce results
 
