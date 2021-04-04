@@ -1,6 +1,5 @@
 # Physics experiments
 
-Physics experiments:
   1) Falling rain;
   2) Disk rolling over sphere.
 
