@@ -10,5 +10,6 @@
 3) Run requirements installation on terminal: ```pip install -r pip_requirements.txt```;
 4) Run the python notebook with the command on a terminal: ```jupyter notebook```;
 5) Open a browser and type ```localhost:8888``` on url text field;
-6) Click on the ```main.py``` file;
-7) ```Shift-Enter``` each cell to reproduce the result.
+6) Open one of the projects on the folder;
+7) Click on the ```main.py``` file;
+8) ```Shift-Enter``` each cell to reproduce the result.
